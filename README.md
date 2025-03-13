@@ -40,8 +40,8 @@ Feel free to explore my repositories to see more of my work!
 ## Get In Touch 📫
 
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. You can reach me at:
-- **Email:** [YourEmail@example.com](23f3000132@ds.study.iitm.ac.in)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ankitkumarpradhan/)
+- **Email:** [23f3000132@ds.study.iitm.ac.in](mailto:23f3000132@ds.study.iitm.ac.in)
+- **LinkedIn:** [linkedin.com/in/ankitkumarpradhan/](https://www.linkedin.com/in/ankitkumarpradhan/)
   
 
 ---
