@@ -1,4 +1,4 @@
-# Hi, I'm Ankit Kumar Prathan 👋
+# Hi, I'm Ankit Kumar Pradhan 👋
 
 Welcome to my GitHub profile! I'm a passionate learner and developer with a keen interest in web development and data science. I love exploring new technologies and building projects that make an impact.
 
